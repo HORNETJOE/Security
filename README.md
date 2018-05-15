@@ -1,5 +1,8 @@
 # Security
 
+## Security risks to an orginazation
+There are many diffrent types of security risks to an orginazation such as physical types of security risks for example, theft, loss of data through natural means/employee mistakes. The other type of Security risk would be computer risk such as a data breach.
+
 ## Data Awareness
  
 Data Awareness essentially entails knowing what data is being used, where it is being used and how it is being used. The information pertaining to this can usually be found in the terms and conditions of service where company's detail that they will have full autonomy over the data. Thus it is recommended to read the terms and conditions thoroughly to ensure data is not misused, ensuring transparency. 
